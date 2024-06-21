@@ -41,6 +41,9 @@ st.header("Hubungi Kami")
 st.write("""
 Untuk informasi lebih lanjut, jangan ragu untuk menghubungi kami melalui kontak dibawah ini""")
 st.write("""
-1. **Try Novaldi Ramadhan Muadi (2119631149158)**: email try.novaldi@gmail.com from Universitas Singaperbangsa Karawang.
-2. **
+1. **Try Novaldi Ramadhan Muadi** (2119631149158) from Universitas Singaperbangsa Karawang.
+2. **Mariska Iklimatu Zahro** (2120501055) from Universitas Tidar.
+3. **Muhamad Wildan Syauqie** (5001201110) from Universitas Singaperbangsa Karawang.
+4. **Isna Nur Fadilah** (2108056) from  Universitas Pendidikan Indonesia.
+5. **Abdurrahman Harits W.W** (2141720200) from Politeknik Negeri Malang.
 """)
