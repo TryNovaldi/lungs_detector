@@ -29,7 +29,7 @@ st.write("""
 - Menghindari merokok
 - Menjaga sistem kekebalan tubuh
 """)
-st.image("image\pneumonia.jpg", caption="Gambar paru-paru dengan pneumonia")
+st.image("pneumonia.jpg", caption="Gambar paru-paru dengan pneumonia")
 
 # Section for Tuberculosis
 st.header("Tuberculosis (TBC)")
@@ -44,7 +44,7 @@ st.write("""
 - Menghindari kontak dengan penderita TBC aktif
 - Menjaga sistem kekebalan tubuh
 """)
-st.image("image\ptubercullosis.jpg", caption="Gambar paru-paru dengan tuberculosis")
+st.image("ptubercullosis.jpg", caption="Gambar paru-paru dengan tuberculosis")
 
 # Section for Normal Lungs
 st.header("Paru-Paru Normal")
@@ -59,7 +59,7 @@ st.write("""
 - Berolahraga secara teratur
 - Menjaga pola makan sehat
 """)
-st.image("image\sehat.jpg", caption="Gambar paru-paru normal")
+st.image("sehat.jpg", caption="Gambar paru-paru normal")
 
 # Footer
 st.write("Informasi ini disediakan untuk tujuan edukasi dan bukan sebagai pengganti nasihat medis profesional.")
